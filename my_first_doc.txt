@@ -1,1 +1,2 @@
-#this is my first line in my first document. 
+First line of document
+Second line of document
