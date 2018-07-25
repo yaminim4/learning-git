@@ -4,4 +4,3 @@ Jul 23 2018: 3.30 pm- 7.00 pm: Downloaded developer tools, began work on pre-wor
 
 Jul 24 2018 3.00 pm- 4 pm: Started on 04 of w1d1 pre-work but decided to do jumpstart first. Finished Part 1, part 2.
 10 pm - 11 pm: Finished part 3.
-testing 
