@@ -13,4 +13,4 @@ Jul 26 2018 12.00 - 12.30 pm: Finished enumerables part of Part7. Stuck on one p
 Jul 27 2018 2.00 pm - 3 pm : Resumed work on W1PS1 Note: Learn how to check for palindrome using nested loops vs the #reverse method. Add this method to the Ruby Idioms file.
 Finished W1PS1, W1PS2.
 
-Jul 28 2018 3.00 pm: Got started on W1PS3.
+Jul 28 2018 3.00 pm - 4.15 pm: Got started on W1PS3. Finished W1PS3 at 3.45. Finished W2PS1.
