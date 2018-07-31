@@ -15,4 +15,6 @@ Finished W1PS1, W1PS2.
 
 Jul 28 2018 3.00 pm - 4.15 pm: Got started on W1PS3. Finished W1PS3 at 3.45. Finished W2PS1.
 
-Jul 30 2018 6.15 pm: Started work on W2PS2. 7 pm: Finished W2PS2 Started working on W2PS3. Finished W2PS3. 
+Jul 30 2018 6.15 pm: Started work on W2PS2. 7 pm: Finished W2PS2 Started working on W2PS3. Finished W2PS3.
+
+Jul 31 2018 2.15 pm: Started work on W2PS4.
