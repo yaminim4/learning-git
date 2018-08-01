@@ -17,4 +17,6 @@ Jul 28 2018 3.00 pm - 4.15 pm: Got started on W1PS3. Finished W1PS3 at 3.45. Fin
 
 Jul 30 2018 6.15 pm: Started work on W2PS2. 7 pm: Finished W2PS2 Started working on W2PS3. Finished W2PS3.
 
-Jul 31 2018 2.15 pm: Started work on W2PS4. Need to work on repeated number ranges for this set and Practice assignment 1. Have decided to Practice assignment 2 and return to repeated number ranges for a more in depth understanding. 3.15 pm: Finished PAs2.
+Jul 31 2018 2.15 pm: Started work on W2PS4. Need to work on repeated number ranges for this set and Practice assignment 1. Have decided to Practice assignment 2 and return to repeated number ranges for a more in depth understanding. 3.15 pm: Finished PAs2. 3.30 pm : Finished half of PAs3.
+
+Aug 1 : 2 pm Started work on repeated number range type problems. 
